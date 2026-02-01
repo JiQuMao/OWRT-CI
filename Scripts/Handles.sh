@@ -26,7 +26,7 @@ fi
 
 #修改argon主题字体和颜色
 #if [ -d *"luci-theme-argon"* ]; then
-	echo " "
+#	echo " "
 
 #	cd ./luci-theme-argon/
 
